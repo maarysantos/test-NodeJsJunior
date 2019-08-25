@@ -15,5 +15,5 @@ API desenvolvida para teste de vaga NodeJs Júnior
 
 ### Iniciar API
 
-    - Para iniciar a API é só rodar node src/server.js
+    - Para iniciar a API é só rodar npm start
 
