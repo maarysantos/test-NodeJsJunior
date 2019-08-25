@@ -25,8 +25,6 @@ const dijkstra = (graph) => {
 
 // track lowest distance to reach each node
     const trackeddistance = Object.assign({finish: Infinity}, graph.start);
-    console.log('Initial `distance`: ')
-    console.log(trackeddistance)
 
 // track paths
     const trackedParents = {finish: null};
