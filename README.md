@@ -1,6 +1,6 @@
 ## API-MENOR-ROTA
 
-### API desenvolvida para teste de vaga NodeJs Júnior
+API desenvolvida para teste de vaga NodeJs Júnior
 
 ### Dependências
 
