@@ -4,8 +4,8 @@
 
 ### Dependências
 
--NodeJS 10.16.1 lts
--NPM 6.9.0
+- NodeJS 10.16.1 LTS
+- NPM 6.9.0
 
 ### Instalação
 
